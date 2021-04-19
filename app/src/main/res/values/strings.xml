@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AOne_3</string>
+    <string name="Name">Name</string>
+    <string name="Id">Id</string>
+    <string name="Release">Release</string>
+    <string name="Price">Price</string>
+    <string name="Save">Save</string>
+    <string name="Load">Load</string>
+    <string name="Delete">Delete</string>
+    <string name="Update">Update</string>
+    <string name="Book">Books</string>
+</resources>
